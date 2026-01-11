@@ -1,0 +1,11 @@
+include README.md
+include config_image.json
+include config_video.json
+recursive-include models *
+recursive-include codebook *
+recursive-include images *
+recursive-include images_tag *
+recursive-include fiducial_marker *
+recursive-include stag_decode *
+recursive-include network *
+recursive-include util *
